@@ -20,7 +20,7 @@ jobs:
       contents: read #This is required for actions/checkout
 
     steps:
-      - name: 'Checkout GitHub Action'
+      - name: 'Server'
         uses: actions/checkout@v4
 
       - name: Setup Node ${{ env.NODE_VERSION }} Environment
