@@ -331,4 +331,4 @@ ASALocalRun/
 
 **/temp.json
 **/dist
-**/setup-resources/.env
+**/.env
